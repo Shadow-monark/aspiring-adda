@@ -1,5 +1,5 @@
 # aspiring-adda
-# Aspiring Adda Pro | Career Pathways 2026
+# Aspiring Adda | Career Pathways 2026
 
 A modern, high-performance career exploration platform built with **Vanilla JavaScript**, **Tailwind CSS**, and **Lucide Icons**. 
 
